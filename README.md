@@ -13,7 +13,6 @@ I am an ML/CV Engineer and have been involved in several proprietary algorithm d
 - 🔭 &nbsp; I’m currently learning **micropreneurship**
 - 👨🏻‍💻 &nbsp; I hold a master's degree in Machine Learning
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/osman-yilmaz/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
 - 📚 &nbsp; In my free time, I travel, kayak, play football, go gym 
 - 🎶 &nbsp; I like to listen [Ludovico Einaudi](https://www.youtube.com/watch?v=eUDVUZZyA0M&ab_channel=LudovicoEinaudi) while working
 <br>
